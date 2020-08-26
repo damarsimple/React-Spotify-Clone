@@ -2,7 +2,7 @@ import React from "react";
 import BottomAppBar from "./components/BottomAppBar";
 import MusicList from "./components/MusicList";
 import { Musics, Music } from "./type/type";
-import { Box, Grid } from "@material-ui/core";
+import { Grid } from "@material-ui/core";
 
 interface AppData {
   title: string;
